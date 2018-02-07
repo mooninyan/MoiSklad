@@ -1,2 +1,2 @@
 # MoiSklad
-mvn clean compile exec:java -Dexec.mainClass="App"
+mvn clean compile exec:java -Dexec.mainClass="com.tt.App"
