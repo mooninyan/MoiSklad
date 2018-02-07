@@ -13,7 +13,7 @@
     <bean id="entityManagerFactory"
           class="org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean">
         <property name="dataSource" ref="dataSource"/>
-        <property name="packagesToScan" value="MoiSklad.entity" />
+        <property name="packagesToScan" value="com.tt.entity" />
         <property name="persistenceXmlLocation" value="classpath:spring/persistence.xml"/>
         <property name="persistenceUnitName" value="jpaData"/>
 
