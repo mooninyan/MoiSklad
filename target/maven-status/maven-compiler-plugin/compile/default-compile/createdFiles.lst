@@ -1,0 +1,6 @@
+MoiSklad/App.class
+MoiSklad/repository/AccountRepositoryImpl.class
+MoiSklad/entity/Account.class
+MoiSklad/repository/AccountRepository.class
+MoiSklad/service/AccountService.class
+MoiSklad/service/CommandValidator.class
